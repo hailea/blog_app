@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# An app for bloggers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped by react and used json-server as a backend.
 
 ## Available Scripts
 
-In the project directory, you can run:
+ReactJS, CSS, Javascript, JSON and Bootstrap are used to power this app.
 
 ### `npm start`
 
